@@ -8,7 +8,7 @@
 			Capital
 		</type>
 		<country>
-			United Kingdom
+			China
 		</country>
 		<timezone id="Asia/China" utcoffsetMinutes="0" />
 		<location altitude="25" latitude="51.50853" longitude="-0.12574" geobase="geonames" geobaseid="2643743" />
@@ -35,7 +35,7 @@
 		<tabular>
 			<time from="2014-12-31T23:00:00" to="2015-01-01 00:00:00">
 				<!-- Valid from 2020-01-09T16:00:00 to 2020-01-09T17:00:00 -->
-				<symbol number="9" numberEx="46" name="Light rain" var="46" />
+				<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
 				<precipitation value="0" />
 				<!-- Valid at 2020-01-09T16:00:00 -->
 				<windDirection deg="45" code="NW" name="" />
@@ -45,7 +45,7 @@
 			</time>
 			<time from="2015-01-01T00:00:00" to="2015-01-01 01:00:00">
 				<!-- Valid from 2020-01-09T16:00:00 to 2020-01-09T17:00:00 -->
-				<symbol number="9" numberEx="46" name="Light rain" var="46" />
+				<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
 				<precipitation value="0" />
 				<!-- Valid at 2020-01-09T16:00:00 -->
 				<windDirection deg="225" code="SE" name="" />
@@ -55,7 +55,7 @@
 			</time>
 			<time from="2015-01-01T01:00:00" to="2015-01-01 02:00:00">
 				<!-- Valid from 2020-01-09T16:00:00 to 2020-01-09T17:00:00 -->
-				<symbol number="9" numberEx="46" name="Light rain" var="46" />
+				<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
 				<precipitation value="0" />
 				<!-- Valid at 2020-01-09T16:00:00 -->
 				<windDirection deg="45" code="NW" name="" />
@@ -65,7 +65,7 @@
 			</time>
 			<time from="2015-01-01T02:00:00" to="2015-01-01 03:00:00">
 				<!-- Valid from 2020-01-09T16:00:00 to 2020-01-09T17:00:00 -->
-				<symbol number="9" numberEx="46" name="Light rain" var="46" />
+				<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
 				<precipitation value="0" />
 				<!-- Valid at 2020-01-09T16:00:00 -->
 				<windDirection deg="45" code="NW" name="" />
@@ -75,7 +75,7 @@
 			</time>
 			<time from="2015-01-01T03:00:00" to="2015-01-01 04:00:00">
 				<!-- Valid from 2020-01-09T16:00:00 to 2020-01-09T17:00:00 -->
-				<symbol number="9" numberEx="46" name="Light rain" var="46" />
+				<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
 				<precipitation value="0" />
 				<!-- Valid at 2020-01-09T16:00:00 -->
 				<windDirection deg="45" code="NW" name="" />
@@ -85,7 +85,7 @@
 			</time>
 			<time from="2015-01-01T04:00:00" to="2015-01-01 05:00:00">
 				<!-- Valid from 2020-01-09T16:00:00 to 2020-01-09T17:00:00 -->
-				<symbol number="9" numberEx="46" name="Light rain" var="46" />
+				<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
 				<precipitation value="0" />
 				<!-- Valid at 2020-01-09T16:00:00 -->
 				<windDirection deg="45" code="NW" name="" />
@@ -95,7 +95,7 @@
 			</time>
 			<time from="2015-01-01T05:00:00" to="2015-01-01 06:00:00">
 				<!-- Valid from 2020-01-09T16:00:00 to 2020-01-09T17:00:00 -->
-				<symbol number="9" numberEx="46" name="Light rain" var="46" />
+				<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
 				<precipitation value="0" />
 				<!-- Valid at 2020-01-09T16:00:00 -->
 				<windDirection deg="45" code="NW" name="" />
@@ -105,7 +105,7 @@
 			</time>
 			<time from="2015-01-01T06:00:00" to="2015-01-01 07:00:00">
 				<!-- Valid from 2020-01-09T16:00:00 to 2020-01-09T17:00:00 -->
-				<symbol number="9" numberEx="46" name="Light rain" var="46" />
+				<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
 				<precipitation value="0" />
 				<!-- Valid at 2020-01-09T16:00:00 -->
 				<windDirection deg="45" code="NW" name="" />
@@ -115,7 +115,7 @@
 			</time>
 			<time from="2015-01-01T07:00:00" to="2015-01-01 08:00:00">
 				<!-- Valid from 2020-01-09T16:00:00 to 2020-01-09T17:00:00 -->
-				<symbol number="9" numberEx="46" name="Light rain" var="46" />
+				<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
 				<precipitation value="0" />
 				<!-- Valid at 2020-01-09T16:00:00 -->
 				<windDirection deg="225" code="SE" name="" />
@@ -125,7 +125,7 @@
 			</time>
 			<time from="2015-01-01T08:00:00" to="2015-01-01 09:00:00">
 				<!-- Valid from 2020-01-09T16:00:00 to 2020-01-09T17:00:00 -->
-				<symbol number="9" numberEx="46" name="Light rain" var="46" />
+				<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
 				<precipitation value="0" />
 				<!-- Valid at 2020-01-09T16:00:00 -->
 				<windDirection deg="0" code="cv" name="" />
@@ -135,7 +135,7 @@
 			</time>
 			<time from="2015-01-01T09:00:00" to="2015-01-01 10:00:00">
 				<!-- Valid from 2020-01-09T16:00:00 to 2020-01-09T17:00:00 -->
-				<symbol number="9" numberEx="46" name="Light rain" var="46" />
+				<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
 				<precipitation value="0" />
 				<!-- Valid at 2020-01-09T16:00:00 -->
 				<windDirection deg="135" code="NE" name="" />
@@ -145,7 +145,7 @@
 			</time>
 			<time from="2015-01-01T10:00:00" to="2015-01-01 11:00:00">
 				<!-- Valid from 2020-01-09T16:00:00 to 2020-01-09T17:00:00 -->
-				<symbol number="9" numberEx="46" name="Light rain" var="46" />
+				<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
 				<precipitation value="0" />
 				<!-- Valid at 2020-01-09T16:00:00 -->
 				<windDirection deg="135" code="NE" name="" />
@@ -155,7 +155,7 @@
 			</time>
 			<time from="2015-01-01T11:00:00" to="2015-01-01 12:00:00">
 				<!-- Valid from 2020-01-09T16:00:00 to 2020-01-09T17:00:00 -->
-				<symbol number="9" numberEx="46" name="Light rain" var="46" />
+				<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
 				<precipitation value="0" />
 				<!-- Valid at 2020-01-09T16:00:00 -->
 				<windDirection deg="0" code="cv" name="" />
@@ -165,7 +165,7 @@
 			</time>
 			<time from="2015-01-01T12:00:00" to="2015-01-01 13:00:00">
 				<!-- Valid from 2020-01-09T16:00:00 to 2020-01-09T17:00:00 -->
-				<symbol number="9" numberEx="46" name="Light rain" var="46" />
+				<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
 				<precipitation value="0" />
 				<!-- Valid at 2020-01-09T16:00:00 -->
 				<windDirection deg="0" code="cv" name="" />
@@ -175,7 +175,7 @@
 			</time>
 			<time from="2015-01-01T13:00:00" to="2015-01-01 14:00:00">
 				<!-- Valid from 2020-01-09T16:00:00 to 2020-01-09T17:00:00 -->
-				<symbol number="9" numberEx="46" name="Light rain" var="46" />
+				<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
 				<precipitation value="0" />
 				<!-- Valid at 2020-01-09T16:00:00 -->
 				<windDirection deg="225" code="SE" name="" />
@@ -185,7 +185,7 @@
 			</time>
 			<time from="2015-01-01T14:00:00" to="2015-01-01 15:00:00">
 				<!-- Valid from 2020-01-09T16:00:00 to 2020-01-09T17:00:00 -->
-				<symbol number="9" numberEx="46" name="Light rain" var="46" />
+				<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
 				<precipitation value="0" />
 				<!-- Valid at 2020-01-09T16:00:00 -->
 				<windDirection deg="225" code="SE" name="" />
@@ -195,7 +195,7 @@
 			</time>
 			<time from="2015-01-01T15:00:00" to="2015-01-01 16:00:00">
 				<!-- Valid from 2020-01-09T16:00:00 to 2020-01-09T17:00:00 -->
-				<symbol number="9" numberEx="46" name="Light rain" var="46" />
+				<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
 				<precipitation value="0" />
 				<!-- Valid at 2020-01-09T16:00:00 -->
 				<windDirection deg="225" code="SE" name="" />
@@ -205,7 +205,7 @@
 			</time>
 			<time from="2015-01-01T16:00:00" to="2015-01-01 17:00:00">
 				<!-- Valid from 2020-01-09T16:00:00 to 2020-01-09T17:00:00 -->
-				<symbol number="9" numberEx="46" name="Light rain" var="46" />
+				<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
 				<precipitation value="0" />
 				<!-- Valid at 2020-01-09T16:00:00 -->
 				<windDirection deg="225" code="SE" name="" />
@@ -215,7 +215,7 @@
 			</time>
 			<time from="2015-01-01T17:00:00" to="2015-01-01 18:00:00">
 				<!-- Valid from 2020-01-09T16:00:00 to 2020-01-09T17:00:00 -->
-				<symbol number="9" numberEx="46" name="Light rain" var="46" />
+				<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
 				<precipitation value="0" />
 				<!-- Valid at 2020-01-09T16:00:00 -->
 				<windDirection deg="225" code="SE" name="" />
@@ -225,7 +225,7 @@
 			</time>
 			<time from="2015-01-01T18:00:00" to="2015-01-01 19:00:00">
 				<!-- Valid from 2020-01-09T16:00:00 to 2020-01-09T17:00:00 -->
-				<symbol number="9" numberEx="46" name="Light rain" var="46" />
+				<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
 				<precipitation value="0" />
 				<!-- Valid at 2020-01-09T16:00:00 -->
 				<windDirection deg="225" code="SE" name="" />
@@ -235,7 +235,7 @@
 			</time>
 			<time from="2015-01-01T19:00:00" to="2015-01-01 20:00:00">
 				<!-- Valid from 2020-01-09T16:00:00 to 2020-01-09T17:00:00 -->
-				<symbol number="9" numberEx="46" name="Light rain" var="46" />
+				<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
 				<precipitation value="0" />
 				<!-- Valid at 2020-01-09T16:00:00 -->
 				<windDirection deg="0" code="cv" name="" />
@@ -245,7 +245,7 @@
 			</time>
 			<time from="2015-01-01T20:00:00" to="2015-01-01 21:00:00">
 				<!-- Valid from 2020-01-09T16:00:00 to 2020-01-09T17:00:00 -->
-				<symbol number="9" numberEx="46" name="Light rain" var="46" />
+				<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
 				<precipitation value="0" />
 				<!-- Valid at 2020-01-09T16:00:00 -->
 				<windDirection deg="135" code="NE" name="" />
@@ -255,7 +255,7 @@
 			</time>
 			<time from="2015-01-01T21:00:00" to="2015-01-01 22:00:00">
 				<!-- Valid from 2020-01-09T16:00:00 to 2020-01-09T17:00:00 -->
-				<symbol number="9" numberEx="46" name="Light rain" var="46" />
+				<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
 				<precipitation value="0" />
 				<!-- Valid at 2020-01-09T16:00:00 -->
 				<windDirection deg="135" code="NE" name="" />
@@ -265,7 +265,7 @@
 			</time>
 			<time from="2015-01-01T22:00:00" to="2015-01-01 23:00:00">
 				<!-- Valid from 2020-01-09T16:00:00 to 2020-01-09T17:00:00 -->
-				<symbol number="9" numberEx="46" name="Light rain" var="46" />
+				<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
 				<precipitation value="0" />
 				<!-- Valid at 2020-01-09T16:00:00 -->
 				<windDirection deg="45" code="NW" name="" />
